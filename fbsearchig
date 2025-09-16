@@ -1,0 +1,57 @@
+GET https://i.instagram.com/api/v1/fbsearch/typeahead_stream/?search_surface=typeahead_search_page&search_session_id=5aa46081-deb3-4237-95e5-b733eeb33031&timezone_offset=28800&count=30&query=usawork&context=blended HTTP/2.0
+accept-language: id-ID, en-US
+authorization: Bearer IGT:2:eyJkc191c2VyX2lkIjoiNzY3NjY2OTQ4MzAiLCJzZXNzaW9uaWQiOiI3Njc2NjY5NDgzMCUzQXhqOGZUb0YxUXRTeGxFJTNBMTYlM0FBWWhVcGJyMExUS2h0SnZhZmk5U1BfaXRONnR4cnR4Ml9tdVVuU2UwaHcifQ==
+ig-intended-user-id: 76766694830
+ig-u-ds-user-id: 76766694830
+ig-u-rur: PRN,76766694830,1789550404:01fe75a5ba2c24978cbfbb90ee5c90d8cba530458855d2e010f79126a5fb82b976ff48db
+priority: u=0
+x-bloks-is-layout-rtl: false
+x-bloks-prism-button-version: INDIGO_PRIMARY_BORDERED_SECONDARY
+x-bloks-prism-colors-enabled: false
+x-bloks-prism-elevated-background-fix: false
+x-bloks-prism-extended-palette-gray-red: false
+x-bloks-prism-extended-palette-indigo: false
+x-bloks-prism-font-enabled: false
+x-bloks-prism-indigo-link-version: 1
+x-bloks-version-id: 422d0c0ead50c1ae8a294e5eba90b30255468f80488fcdcdc61c4c1a193f7fa1
+x-fb-client-ip: True
+x-fb-connection-type: WIFI
+x-fb-friendly-name: IgApi: fbsearch/typeahead_stream/
+x-fb-request-analytics-tags: {"network_tags":{"product":"567067343352427","purpose":"fetch","surface":"undefined","request_category":"critical_api","retry_attempt":"0"}}
+x-fb-server-cluster: True
+x-ig-android-id: android-f4e62eb86c530e0b
+x-ig-app-id: 567067343352427
+x-ig-app-locale: in_ID
+x-ig-bandwidth-speed-kbps: 1716.000
+x-ig-bandwidth-totalbytes-b: 5662715
+x-ig-bandwidth-totaltime-ms: 6164
+x-ig-client-endpoint: search_typeahead
+x-ig-capabilities: 3brTv10=
+x-ig-connection-type: WIFI
+x-ig-device-id: 5c6eb05d-4663-4e19-a9a5-85d616b2de11
+x-ig-device-languages: {"system_languages":"id-ID"}
+x-ig-device-locale: in_ID
+x-ig-family-device-id: f89daba1-a067-4b39-97e6-fa33fe2c22dd
+x-ig-is-foldable: false
+x-ig-mapped-locale: id_ID
+x-ig-nav-chain: ExploreFragment:explore_popular:22:main_search:1758014395.879::,SingleSearchTypeaheadTabFragment:search_typeahead:23:button:1758014397.163::
+x-ig-salt-ids: 220137859
+x-ig-timezone-offset: 28800
+x-ig-transfer-encoding: chunked
+x-ig-www-claim: hmac.AR0x_0gQ2b9E-78sUKS_zKwn5Jc8dz7hgn-5rxMmNl7kSPTx
+x-mid: aMVMowABAAFFTcXGRo6BzSTgaNdd
+x-meta-zca: eyJhbmRyb2lkIjp7ImFrYSI6eyJkYXRhVG9TaWduIjoiIiwiZXJyb3JzIjpbIktFWVNUT1JFX0RJU0FCTEVEX0JZX0NPTkZJRyJdfSwiZ3BpYSI6eyJ0b2tlbiI6IiIsImVycm9ycyI6WyJQTEFZX0lOVEVHUklUWV9ESVNBQkxFRF9CWV9DT05GSUciXX0sInBheWxvYWQiOnsicGx1Z2lucyI6eyJiYXQiOnsic3RhIjoiQ2hhcmdpbmciLCJsdmwiOjEwMH0sInNjdCI6e319fX19
+x-pigeon-rawclienttime: 1758014403.329
+x-pigeon-session-id: UFS-635dc392-755b-438c-852f-d57397ad8a9e-0
+x-tigon-is-retry: False
+x-zero-a-device-id: 
+x-zero-balance: INIT
+x-zero-d-device-id: 5c6eb05d-4663-4e19-a9a5-85d616b2de11
+x-zero-eh: 
+x-zero-f-device-id: f89daba1-a067-4b39-97e6-fa33fe2c22dd
+accept-encoding: zstd
+user-agent: Instagram 397.1.0.52.81 Android (28/9; 240dpi; 1280x800; Asus; ASUS_Z01QD; ASUS_Z01QD; intel; in_ID; 790870934)
+x-fb-conn-uuid-client: 6a087c1bf7f0aeef59f935c74eda603e
+x-fb-http-engine: Tigon/MNS/TCP
+x-fb-rmd: state=URL_ELIGIBLE
+
