@@ -1,0 +1,29 @@
+curl 'https://www.instagram.com/graphql/query' \
+  -H 'accept: */*' \
+  -H 'accept-language: en,id;q=0.9,en-GB;q=0.8,en-US;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -b 'datr=dtLjaIccsxogRhg5IbWsmh2O; ig_did=AE77D791-0D2F-4F24-B2D4-4A63F1307E8C; ps_l=1; ps_n=1; mid=aOPSdwALAAH5czoDs7Bycov41fAS; ig_nrcb=1; csrftoken=eJZlfAooYR3milBsZXJTNq6J7NopNFl0; ds_user_id=61731316067; sessionid=61731316067%3AWwfYmgsxuwL0l0%3A24%3AAYhO-48riMbRrxyXc5ghubF_AJvywU4Zh9250aEC2Q; wd=1358x688; rur="VLL\05461731316067\0541791424765:01fe350047635515f6474be538175b0d9c65ae2a15fdb823feeb5692daedcd699e75a47b"' \
+  -H 'origin: https://www.instagram.com' \
+  -H 'pragma: no-cache' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://www.instagram.com/antique.style_/' \
+  -H 'sec-ch-prefers-color-scheme: dark' \
+  -H 'sec-ch-ua: "Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"' \
+  -H 'sec-ch-ua-full-version-list: "Chromium";v="140.0.7339.208", "Not=A?Brand";v="24.0.0.0", "Microsoft Edge";v="140.0.3485.94"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-ch-ua-platform-version: "19.0.0"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0' \
+  -H 'x-asbd-id: 359341' \
+  -H 'x-bloks-version-id: 27f98ef0df1cb2fbe94f6ba6fae3edb51b2164490e185cea1a1c04f638d35c64' \
+  -H 'x-csrftoken: eJZlfAooYR3milBsZXJTNq6J7NopNFl0' \
+  -H 'x-fb-friendly-name: PolarisProfilePageContentQuery' \
+  -H 'x-fb-lsd: KlM9tX9MiUH6nCXAZE9JLM' \
+  -H 'x-ig-app-id: 936619743392459' \
+  -H 'x-root-field-name: fetch__XDTUserDict' \
+  --data-raw 'av=17841461802016414&__d=www&__user=0&__a=1&__req=2&__hs=20369.HYP%3Ainstagram_web_pkg.2.1...0&dpr=1&__ccg=MODERATE&__rev=1028120506&__s=1mzk98%3A2ky2hj%3Avxz1e3&__hsi=7558664816436762067&__dyn=7xeUjG1mxu1syUbFp41twpUnwgU7SbzEdF8aUco2qwJxS0DU2wx609vCwjE1EE2Cw8G11wBz81s8hwGxu786a3a1YwBgao6C0Mo2swtUd8-U2zxe2GewGw9a361qwuEjUlwhEe87q0oa2-azqwt8d-2u2J0bS1LwTwKG1pg2fwxyo6O1FwlA3a3zhA6bwIxeUnAwCAxW1oxe6UaU3cyVrx60hK78aocE4ei16zomw&__csr=hs2Vd3adsyb4RTFRnSKFlqcx56mZ9fZBrFlGy5x148RUYx4iqZ1DCj8nriF4DAjZoR5JHWimECdKHJqi858HFGSVFAicKiA4UCjyogKXgFaXy8ty48DF2FGWCx3y5AuiczHDBiyVudxfuqcBul2FEhGbwzojALybyA2SuEaVUK22ETUx6yE9E8UOm0h13U01kXQbyFU2MwAw8S0qZwGKaw9e09Zxef8i4E9oW7k1l23k90UAWx91nw9dzEpKEqw1gq04oU0IK2C2m1Job9-lez0Hw9m0CUp832hyU6R0kFUx05PxF0aWu8gGu0o6lS2m0rPg2_Ok9y45o05sm039i09iwdXw1-W04Q84m&__hsdp=l1nk28gn3HpgXH4OIxs8gPkduiehJ9jo95rn8kkhmJaXNMAFVErgOoVk51jyPDP0nV1896A68cUrwDqpA6U7e6O38mDowxUiz9o9Umwj4718qxq4U2CG4UepEhzUaUjw56xqm7ul3UaUtyoOaG16G7UWQ0IUc85O0Jo1EE3my81J8G1fw9K0ge0hG1Xwa60I8W4E1Ko3hw9i0mG4U2SxW089yu1Hw921Dw45wiE&__hblp=0lUdU4m5onwbi1Twdi58fo9Eamaw8a5rAwPKAi5oOmczQ9x9aqdwTgmxedCxq5o625oS7WzF8aHgDAx53Eyexe4U29xCawsUnyV8hBx6mnBgyq2K7oCcyGwj8szHgqwzyE6C68nwioiw9Sey81jU5a1xwt8ydwbO0WoG1fxi3W17wei7E2lw8i1Xwj84ucwaeczEiwwwEwi819E6W1yw9i1mw4jxeu3O2W12xW0g60guVu2y2u6k2q1yCxmfwgo6q18wEwIwiES&__sjsp=l1nk28gnEddB3KJOOIxs8gPkduiehJ9jo95rn8kkhmhav72iDCxOcCel1gkU0Su&__comet_req=7&fb_dtsg=NAfsoX_-BcwwIEz-S0RMdlHvui2Pm68YHCeUMvIgspBjM20VA7ov-sg%3A17865553615041151%3A1759844071&jazoest=26249&lsd=KlM9tX9MiUH6nCXAZE9JLM&__spin_r=1028120506&__spin_b=trunk&__spin_t=1759888794&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=PolarisProfilePageContentQuery&server_timestamps=true&variables=%7B%22enable_integrity_filters%22%3Atrue%2C%22id%22%3A%2261731316067%22%2C%22render_surface%22%3A%22PROFILE%22%2C%22__relay_internal__pv__PolarisProjectCannesEnabledrelayprovider%22%3Atrue%2C%22__relay_internal__pv__PolarisProjectCannesLoggedInEnabledrelayprovider%22%3Atrue%2C%22__relay_internal__pv__PolarisProjectCannesLoggedOutEnabledrelayprovider%22%3Afalse%2C%22__relay_internal__pv__PolarisCannesGuardianExperienceEnabledrelayprovider%22%3Atrue%2C%22__relay_internal__pv__PolarisCASB976ProfileEnabledrelayprovider%22%3Afalse%7D&doc_id=24517691034590100'
